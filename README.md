@@ -1,5 +1,6 @@
 Stack:
     node v18.13.0
+    
     npm 8.19.3
     RabbitMQ 3.12.2
     Erlang 26.0.2
